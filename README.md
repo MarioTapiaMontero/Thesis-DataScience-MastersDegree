@@ -12,7 +12,7 @@ This Thesis focuses on identifying the most walkable areas of a city for tourist
 
 
 ##  Keywords
-15-Minute Cities, Shortest-Path, 
+15-minute cities, Tourism, Walkability, Shortest-path ​
 
 ##  Data 
 * Airbnb
