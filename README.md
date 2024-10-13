@@ -10,6 +10,9 @@ This Thesis focuses on identifying the most walkable areas of a city for tourist
 <img src="https://github.com/alecruces/Induction-Termographic-Classification/assets/67338986/6d4c9689-da21-4cbe-b3e4-4534b894ce69" alt="image_github" style="width:300px;height:200;"/>
 </p>
 
+![Venezia_airbnb_TWI_10](https://github.com/user-attachments/assets/86865afb-e8a5-4b53-a1fb-0f714bf8022b)
+
+
 ##  Keywords
 15-Minute Cities, Shortest-Path, 
 
