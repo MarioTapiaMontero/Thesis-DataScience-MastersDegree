@@ -20,7 +20,7 @@ This Thesis focuses on identifying the most walkable areas of a city for tourist
 * OpenStreetMap
 
 ## Methods  
-* Web-Scrapping
+* Web-Scraping
 * Contraction Hierarchies
 * Multiple Linear Regression
 * Regression Trees
@@ -31,10 +31,10 @@ This Thesis focuses on identifying the most walkable areas of a city for tourist
 * Statistical Analysis
 
 
-
 ## Software 
 * Python (Selenium, Pandana, OSMNx, Pandas, Numpy, KeplerGL, Matplotlib)
 
 ## Files  
 * Code:
-  - `code.ipynb`: Jupyter notebook that run all the project.
+  - `Thesis_UniPD_Tapia_Mario.pdf`: Thesis document presented to obtain the Master's degree in Data Science.
+  - `Thesis_presentation.pdf`: Slides presented at the Thesis defense held on September 19, 2024, in Padova, Italy.
