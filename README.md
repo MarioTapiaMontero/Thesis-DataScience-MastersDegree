@@ -32,9 +32,15 @@ This Thesis focuses on identifying the most walkable areas of a city for tourist
 
 
 ## Software 
-* Python (Selenium, Pandana, OSMNx, Pandas, Numpy, KeplerGL, Matplotlib)
+* Python (Selenium, Pandana, OSMNx, Statsmodels, SciPy, Scikit-learn, Pandas, Numpy, KeplerGL, Matplotlib)
 
 ## Files  
 * Code:
   - `Thesis_UniPD_Tapia_Mario.pdf`: Thesis document presented to obtain the Master's degree in Data Science.
   - `Thesis_presentation.pdf`: Slides presented at the Thesis defense held on September 19, 2024, in Padova, Italy.
+  - `Airbnb_Napoli.ipynb`: Notebook used for analyzing BnBs in Naples, Italy.
+  - `Airbnb_Venezia.ipynb`: Notebook used for analyzing BnBs in Venice, Italy.
+  - `Airbnb_Santiago.ipynb`: Notebook used for analyzing BnBs in Santiago, Chile.
+  - `Hotels_Napoli.ipynb`: Notebook used for analyzing Hotels in Naples, Italy.
+  - `Hotels_Venezia.ipynb`: Notebook used for analyzing Hotels in Venice, Italy.
+
