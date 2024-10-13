@@ -7,7 +7,7 @@
 This Thesis focuses on identifying the most walkable areas of a city for tourists, using a proposed Tourism Walkability Index within the framework of the 15-minute city concept. It examines Naples and Venice to assess how well hotels and BnBs are connected to well-reviewed nearby attractions and restaurants, using data from TripAdvisor, Airbnb, and OpenStreetMap. In both cities, hotels, which are more concentrated, tend to have better walkability than BnBs, which are more spreadout. At the city level, the results show that Venice has more consistently distributed walkability, while Naples exhibits greater variability, with a higher proportion of accommodations having high walkability scores. The relationship between walkability and accommodation pricing is also analyzed, revealing that accommodations with higher walkability tend to have higher prices. This analysis was conducted using multiple linear regression and regression trees. The study highlights the economic and experiential benefits of walkable environments for both cities and tourists, respectively.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/86865afb-e8a5-4b53-a1fb-0f714bf8022b" alt="image_github" style="width:300px;height:400;"/>
+<img src="https://github.com/user-attachments/assets/86865afb-e8a5-4b53-a1fb-0f714bf8022b" alt="image_github" style="width:500px;height:400;"/>
 </p>
 
 
